@@ -1,0 +1,7 @@
+My Web Project (Support by Pya)
+Front -> React + material ui => View ㅈㄴ 정성들여 만들고, 다언어대응이나 레포트출력 같은 디테일까지 살리면 좋음.
+db같은건 aws 1년은 무료니까 documentdb나 rds쓰면 good
+
+Q.레포트 출력
+A.테이블 데이터를 엑셀로 출력한다거나,
+혹은 레포트 툴을 이용해서 출력한다거나
